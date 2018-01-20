@@ -1,0 +1,22 @@
+{
+  "name": "analysis",
+  "version": "1.0.0",
+  "description": "a web server which helps to analysze data from Internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanfusu/Analysis.git"
+  },
+  "author": "sanfusu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanfusu/Analysis/issues"
+  },
+  "homepage": "https://github.com/sanfusu/Analysis#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
